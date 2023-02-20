@@ -1,0 +1,92 @@
+ .sidenav{
+    height: 550px;
+}
+.dash{
+    background-color: white;
+    color: rgba(248, 20, 20, 0.774);
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+ a:hover{
+    border-bottom: 1px solid white;
+    color:white;
+    font-size: 20px;
+}
+.user{
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.icon{
+    font-size: 40px;
+}
+.img img{
+    width: 100%;
+    height: 150px;
+    margin-top: 30px;
+}
+.form{
+    display: flex;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form form{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   width: 50%;
+   padding: 20px;
+}
+.formal{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.formal form{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 30%;
+    padding: 20px;
+
+}
+.formal form button{
+    background-color:rgba(240, 128, 128, 0.774);
+}
+.formal form button:hover{
+    background-color: rgb(233, 30, 30);
+    color: white;
+}
+.imgdata img{
+    height: 70px;
+    width: 70px;
+}
+.buy img{
+    width: 100%;
+    height: 200px;
+}
+.linked button a{
+    text-decoration: none;
+    color: red;
+}
+.cont div img{
+    width: 100%;
+    height: 200px;
+}
+.cont2{
+    line-height: 50px;
+}
+/* a:hover{
+    background-color: white;
+    color: red;
+} */
+/* .all{
+    border: 1px solid red;
+    border-radius: 20px;
+} */
